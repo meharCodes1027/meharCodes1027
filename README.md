@@ -70,7 +70,7 @@ open_to:     [ Research, Internships ]
 <td align="center" width="165">
 <br/>
 <b>Code With DCG</b><br/>
-<sub>DTU Hackathon<br/>1st Place</sub>
+<sub>DTU Hackathon<br/>2nd Place</sub>
 <br/><br/>
 </td>
 <td align="center" width="165">
@@ -96,7 +96,7 @@ open_to:     [ Research, Internships ]
 <td align="center" width="165">
 <br/>
 <b>QAHE Conference</b><br/>
-<sub>Best Presenter Award<br/>EchoAI Research</sub>
+<sub>Best Presenter Award<br/></sub>
 <br/><br/>
 </td>
 <td align="center" width="165">
