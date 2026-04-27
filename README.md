@@ -23,24 +23,15 @@
 
 <br/>
 
-![open to collabs](https://img.shields.io/badge/open_to_collabs-238636?style=flat-square)&nbsp;
-![wins](https://img.shields.io/badge/6_hackathon_wins-1f6feb?style=flat-square)&nbsp;
-![research](https://img.shields.io/badge/2_int'l_posters-8957e5?style=flat-square)&nbsp;
-![journey](https://img.shields.io/badge/Chitkara_→_IIT_→_Harvard-3fb950?style=flat-square)
-
-</div>
-
-<br/>
-
 ---
 
 ## `{ who_am_i }`
 
-> A second-year CS student who landed an AI minor at IIT Ropar, a Harvard leadership fellowship, and a suspiciously large hackathon trophy shelf — all before finishing sophomore year.
+> CS student who landed an AI minor at IIT Ropar, a Harvard leadership fellowship, and a suspiciously large hackathon trophy shelf — all before finishing sophomore year.
 > Either I'm extremely productive, or extremely bad at taking breaks. The evidence is inconclusive.
 >
 > I build things meant to survive contact with the real world, not just impress judges for 3 minutes.
-> Currently living at the intersection of machine learning and *"but why does this only work on my laptop."*
+> Learning ML from Andrew Ng, intuition from 3Blue1Brown, and humility from my own bugs.
 
 ```yaml
 name:        Meharjot Kaur
