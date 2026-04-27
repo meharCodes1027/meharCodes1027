@@ -28,7 +28,7 @@
 
 ## `{ who_am_i }`
 
-> CS student who landed an AI minor at IIT Ropar, a Harvard leadership fellowship, and a suspiciously large hackathon trophy shelf — all before finishing sophomore year.
+> CS student who landed an AI minor at IIT Ropar, a Harvard leadership fellowship, and a suspiciously large hackathon trophy shelf all before finishing sophomore year.
 > Either I'm extremely productive, or extremely bad at taking breaks. The evidence is inconclusive.
 >
 > I build things meant to survive contact with the real world, not just impress judges for 3 minutes.
@@ -102,7 +102,7 @@ open_to:     [ Research, Internships ]
 <td align="center" width="165">
 <br/>
 <b>Harvard Aspire</b><br/>
-<sub>Leadership Fellow<br/>Jan – Mar 2025</sub>
+<sub>Leadership Fellow<br/>Jan - Mar 2025</sub>
 <br/><br/>
 </td>
 </tr>
@@ -139,7 +139,7 @@ open_to:     [ Research, Internships ]
 ![Librosa](https://img.shields.io/badge/Librosa-ff6b6b?style=flat-square)
 ![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-An ML pipeline that listens to your voice and flags trouble before your throat even files a complaint. Reads acoustic fingerprints — MFCC, jitter, shimmer — at **90%+ accuracy.**
+An ML pipeline that listens to your voice and flags trouble before your throat even files a complaint. Reads acoustic fingerprints : MFCC, jitter, shimmer at **90%+ accuracy.**
 
 `Presented @ QAHE International Conference`
 
@@ -163,7 +163,7 @@ Bridging the gap between injury and comeback, one rep at a time. A platform conn
 ![Data Eng](https://img.shields.io/badge/Data_Eng-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Analytics-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)
 
-Governance doesn't fail from lack of data — it fails from data trapped in a hundred spreadsheets nobody can find. This turns rural administrative chaos into policy-ready clarity.
+Governance doesn't fail from lack of data, it fails from data trapped in a hundred spreadsheets nobody can find. This turns rural administrative chaos into policy-ready clarity.
 
 </td>
 <td width="50%" valign="top">
@@ -173,7 +173,7 @@ Governance doesn't fail from lack of data — it fails from data trapped in a hu
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Design](https://img.shields.io/badge/Design-EC4899?style=flat-square)
 
-Because a GitHub profile is just the trailer. Built a portfolio that tells the full story — projects, research, and the occasional evidence that life exists outside an IDE.
+Because a GitHub profile is just the trailer. Built a portfolio that tells the full story projects, research, and the occasional evidence that life exists outside an IDE.
 
 </td>
 </tr>
@@ -228,7 +228,7 @@ Because a GitHub profile is just the trailer. Built a portfolio that tells the f
 
 | Institution | Program | Period |
 |:---|:---|:---:|
-| **Chitkara University** | B.Tech — Computer Science & Engineering | 2024 → 2028 |
+| **Chitkara University** | B.Tech - Computer Science & Engineering | 2024 → 2028 |
 | **IIT Ropar** | Minor — Artificial Intelligence | Dec 2024 → Oct 2025 |
 | **Harvard University** | Leadership & Social Entrepreneurship — Aspire Institute | Jan → Mar 2025 |
 
