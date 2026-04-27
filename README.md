@@ -21,6 +21,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:meharjotkaur07@gmail.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=meharCodes1027&style=flat-square&color=3fb950&label=profile+views)
 
+</div>
 <br/>
 
 ---
