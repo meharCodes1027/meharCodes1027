@@ -141,8 +141,6 @@ open_to:     [ Research, Internships ]
 
 An ML pipeline that listens to your voice and flags trouble before your throat even files a complaint. Reads acoustic fingerprints : MFCC, jitter, shimmer at **90%+ accuracy.**
 
-`Presented @ QAHE International Conference`
-
 </td>
 <td width="50%" valign="top">
 <h3>PhysioLoop</h3>
