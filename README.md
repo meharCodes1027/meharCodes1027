@@ -92,7 +92,7 @@ minor:       Artificial Intelligence @ IIT Ropar
 leadership:  Harvard University — Aspire Institute
 interests:   [ AI/ML, Full-Stack, Data Science, Cloud Engineering ]
 status:      Writing code. Breaking things. Fixing them better. Repeat.
-looking_for: [ Research collabs, Internships, Hackathon teammates ]
+looking_for: [ Research collabs, Internships ]
 ```
 
 <br/>
