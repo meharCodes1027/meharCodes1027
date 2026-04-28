@@ -29,12 +29,9 @@
 
 ## `{ who_am_i }`
 
-> A second-year CS student who landed an AI minor at IIT Ropar, a Harvard leadership fellowship, and a suspiciously large hackathon trophy shelf all before finishing sophomore year.
-> Either I'm extremely productive, or extremely bad at taking breaks. The evidence is inconclusive.
->
+> CS student who landed an AI minor at IIT Ropar, a Harvard leadership fellowship, and a suspiciously large hackathon trophy shelf all before finishing sophomore year.
 > I build things meant to survive contact with the real world, not just impress judges for 3 minutes.
-> Currently living at the intersection of machine learning and *"but why does this only work on my laptop."*
-
+> Learning ML from Andrew Ng, intuition from 3Blue1Brown, and humility from my own bugs.
 ```yaml
 name:        Meharjot Kaur
 university:  Chitkara University — B.Tech CSE (2024–2028)
