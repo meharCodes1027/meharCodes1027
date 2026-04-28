@@ -18,21 +18,22 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meharjot-kaur/)&nbsp;
 [![GitHub](https://img.shields.io/badge/meharCodes1027-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/meharCodes1027)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:meharjotkaur07@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/meharjotkaur07@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:meharjotkaur07@gmail.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=meharCodes1027&style=flat-square&color=3fb950&label=profile+views)
 
 </div>
+
 <br/>
 
 ---
 
 ## `{ who_am_i }`
 
-> CS student who landed an AI minor at IIT Ropar, a Harvard leadership fellowship, and a suspiciously large hackathon trophy shelf all before finishing sophomore year.
+> A second-year CS student who landed an AI minor at IIT Ropar, a Harvard leadership fellowship, and a suspiciously large hackathon trophy shelf all before finishing sophomore year.
 > Either I'm extremely productive, or extremely bad at taking breaks. The evidence is inconclusive.
 >
 > I build things meant to survive contact with the real world, not just impress judges for 3 minutes.
-> Learning ML from Andrew Ng, intuition from 3Blue1Brown, and humility from my own bugs.
+> Currently living at the intersection of machine learning and *"but why does this only work on my laptop."*
 
 ```yaml
 name:        Meharjot Kaur
@@ -70,7 +71,7 @@ open_to:     [ Research, Internships ]
 <td align="center" width="165">
 <br/>
 <b>Code With DCG</b><br/>
-<sub>DTU Hackathon<br/>2nd Place</sub>
+<sub>DTU Hackathon<br/>1st Place</sub>
 <br/><br/>
 </td>
 <td align="center" width="165">
@@ -96,13 +97,13 @@ open_to:     [ Research, Internships ]
 <td align="center" width="165">
 <br/>
 <b>QAHE Conference</b><br/>
-<sub>Best Presenter Award<br/></sub>
+<sub>Best Presenter Award<br/>EchoAI Research</sub>
 <br/><br/>
 </td>
 <td align="center" width="165">
 <br/>
 <b>Harvard Aspire</b><br/>
-<sub>Leadership Fellow<br/>Jan - Mar 2025</sub>
+<sub>Leadership Fellow<br/>Jan – Mar 2025</sub>
 <br/><br/>
 </td>
 </tr>
@@ -120,13 +121,21 @@ open_to:     [ Research, Internships ]
 </tr>
 </table>
 
+<br/>
+
+**Team M-2.5 — family, really.**
+
+*Kavin Thakur &nbsp;·&nbsp; Hardik Thapar &nbsp;·&nbsp; Jashanpreet Singh*
+
+<sub>Every trophy above has four names on it. Kavin, Hardik, and Jashan - the kind of team you don't find, you earn. Thank You and I owe you every bit of my journey.</sub>
+
 </div>
 
 <br/>
 
 ---
 
-## `{platforms_built}`
+## `{ work_work }`
 
 <div align="center">
 <table>
@@ -139,7 +148,8 @@ open_to:     [ Research, Internships ]
 ![Librosa](https://img.shields.io/badge/Librosa-ff6b6b?style=flat-square)
 ![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-An ML pipeline that listens to your voice and flags trouble before your throat even files a complaint. Reads acoustic fingerprints : MFCC, jitter, shimmer at **90%+ accuracy.**
+An ML pipeline that listens to your voice and flags trouble before your throat even files a complaint. Reads acoustic fingerprints — MFCC, jitter, shimmer  at **90%+ accuracy.**
+
 
 </td>
 <td width="50%" valign="top">
@@ -161,7 +171,7 @@ Bridging the gap between injury and comeback, one rep at a time. A platform conn
 ![Data Eng](https://img.shields.io/badge/Data_Eng-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Analytics-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)
 
-Governance doesn't fail from lack of data, it fails from data trapped in a hundred spreadsheets nobody can find. This turns rural administrative chaos into policy-ready clarity.
+Governance doesn't fail from lack of data — it fails from data trapped in a hundred spreadsheets nobody can find. This turns rural administrative chaos into policy-ready clarity.
 
 </td>
 <td width="50%" valign="top">
@@ -171,7 +181,7 @@ Governance doesn't fail from lack of data, it fails from data trapped in a hundr
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Design](https://img.shields.io/badge/Design-EC4899?style=flat-square)
 
-Because a GitHub profile is just the trailer. Built a portfolio that tells the full story projects, research, and the occasional evidence that life exists outside an IDE.
+Because a GitHub profile is just the trailer. Built a portfolio that tells the full story — projects, research, and the occasional evidence that life exists outside an IDE.
 
 </td>
 </tr>
@@ -226,7 +236,7 @@ Because a GitHub profile is just the trailer. Built a portfolio that tells the f
 
 | Institution | Program | Period |
 |:---|:---|:---:|
-| **Chitkara University** | B.Tech - Computer Science & Engineering | 2024 → 2028 |
+| **Chitkara University** | B.Tech — Computer Science & Engineering | 2024 → 2028 |
 | **IIT Ropar** | Minor — Artificial Intelligence | Dec 2024 → Oct 2025 |
 | **Harvard University** | Leadership & Social Entrepreneurship — Aspire Institute | Jan → Mar 2025 |
 
