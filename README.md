@@ -10,7 +10,7 @@
 
 # Meharjot Kaur
 
-### `CSE '28 · AI Minor @ IIT Ropar · Harvard Aspire Fellow`
+### `CSE '28 · AI Major @ IIT Ropar · Harvard Aspire Fellow`
 
 *curiosity with a compiler &nbsp;·&nbsp; chaos with a commit message &nbsp;·&nbsp; the grind is non-negotiable*
 
@@ -29,13 +29,13 @@
 
 ## `{ who_am_i }`
 
-> CS student who landed an AI minor at IIT Ropar, a Harvard leadership fellowship, and a suspiciously large hackathon trophy shelf all before finishing sophomore year.
+> CS student who landed an AI Major at IIT Ropar, a Harvard leadership fellowship, and a suspiciously large hackathon trophy shelf all before finishing sophomore year.
 > I build things meant to survive contact with the real world, not just impress judges for 3 minutes.
 > Learning ML from Andrew Ng, intuition from 3Blue1Brown, and humility from my own bugs.
 ```yaml
 name:        Meharjot Kaur
 university:  Chitkara University — B.Tech CSE (2024–2028)
-minor:       Artificial Intelligence @ IIT Ropar
+major:       Artificial Intelligence @ IIT Ropar
 leadership:  Harvard University — Aspire Institute
 focus:       [ AI/ML, Full-Stack Dev, Data Science, Cloud ]
 status:      "404: free time not found"
@@ -145,8 +145,7 @@ open_to:     [ Research, Internships ]
 ![Librosa](https://img.shields.io/badge/Librosa-ff6b6b?style=flat-square)
 ![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-An ML pipeline that listens to your voice and flags trouble before your throat even files a complaint. Reads acoustic fingerprints — MFCC, jitter, shimmer  at **90%+ accuracy.**
-
+An ML pipeline that listens to your voice and flags trouble before your throat even files a complaint. Reads acoustic fingerprints — MFCC, jitter, shimmer — at **90%+ accuracy.**
 
 </td>
 <td width="50%" valign="top">
@@ -160,25 +159,26 @@ Bridging the gap between injury and comeback, one rep at a time. A platform conn
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-<h3>Ruralytics</h3>
+<h3>BillBuddy</h3>
 
-![Full Stack](https://img.shields.io/badge/Full_Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Data Eng](https://img.shields.io/badge/Data_Eng-150458?style=flat-square&logo=pandas&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-6366F1?style=flat-square)
 
-Governance doesn't fail from lack of data — it fails from data trapped in a hundred spreadsheets nobody can find. This turns rural administrative chaos into policy-ready clarity.
+An autonomous utility coordinator built to take recurring bills off your mental checklist. Handles bill monitoring, UPI Autopay workflows, payment verification, and multilingual WhatsApp voice notifications.
 
 </td>
 <td width="50%" valign="top">
-<h3>Personal Portfolio</h3>
+<h3>Nephra AI</h3>
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Design](https://img.shields.io/badge/Design-EC4899?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
 
-Because a GitHub profile is just the trailer. Built a portfolio that tells the full story — projects, research, and the occasional evidence that life exists outside an IDE.
+An AI-powered chronic kidney disease detection system built using clinical features and machine learning. Includes data preprocessing, missing-value imputation, feature analysis, model comparison, and evaluation using accuracy, precision, recall, F1-score, and ROC-AUC.
 
 </td>
 </tr>
@@ -234,7 +234,7 @@ Because a GitHub profile is just the trailer. Built a portfolio that tells the f
 | Institution | Program | Period |
 |:---|:---|:---:|
 | **Chitkara University** | B.Tech — Computer Science & Engineering | 2024 → 2028 |
-| **IIT Ropar** | Minor — Artificial Intelligence | Dec 2024 → Oct 2025 |
+| **IIT Ropar** | Major — Artificial Intelligence | Dec 2024 → Oct 2025 |
 | **Harvard University** | Leadership & Social Entrepreneurship — Aspire Institute | Jan → Mar 2025 |
 
 </div>
